@@ -1,4 +1,7 @@
-## Tengo 21 años. Lo que más me caracteriza es mi capacidad de adaptación y mi pasión por encontrar y resolver problemas complejos. Considero de vital importancia aprender constantemente de los desafíos que nos impone el día a día e identificar a la adversidad como una forma más de adquirir todo tipo de conocimientos. Mi principal objetivo actualmente es formarme como persona y como profesional en mi campo. Actualmente estoy cursando el cuarto año de mi carrera y disfruto aprender cosas nuevas
+- ⏰ Tengo 21 años. Actualmente estoy cursando el cuarto año de mi carrera y disfruto aprender cosas nuevas.
+- 🔎 Lo que más me caracteriza es mi capacidad de adaptación y mi pasión por encontrar y resolver problemas complejos.
+- 💪 Considero de vital importancia aprender constantemente de los desafíos que nos impone el día a día e identificar a la adversidad como una forma más de adquirir todo tipo de conocimientos.
+- 🧭 Mi principal objetivo es formarme como persona y como profesional en mi campo. 
 
 <!--
 **iledesma08/iledesma08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
